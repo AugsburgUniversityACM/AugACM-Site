@@ -19,6 +19,11 @@
     "suppressImplicitAnyIndexErrors": true,
     "noUnusedLocals": true
   },
+  
+  "rules" : {
+    "jsx-no-lambda": false
+  },
+  
   "exclude": [
     "node_modules",
     "build",
